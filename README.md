@@ -29,7 +29,6 @@ And a bit of C programming on the side 🤓
 ## 📫 How to Reach Me
 
 - ✉️ Email: [leventegallx@gmail.com](mailto:leventegallx@gmail.com)
-- 💼 LinkedIn: [www.linkedin.com/in/levente-gáll-73b482313](www.linkedin.com/in/levente-gáll-73b482313)
 
 ---
 
