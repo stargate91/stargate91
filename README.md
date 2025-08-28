@@ -28,7 +28,7 @@ And a bit of C programming on the side 🤓
 
 ## 📫 How to Reach Me
 
-- ✉️ Email: [leventegallx@gmail.com](mailto:leventegallx@gmail.com)
+- ✉️ Email: [extradimensionalraptor@gmail.com](mailto:extradimensionalraptor@gmail.com)
 
 ---
 
