@@ -7,7 +7,7 @@ I'm a physicist who writes code, focusing on Python development, backend service
 What I work with:
 
 - **Languages:** Python, JavaScript, C
-- **Web & Desktop GUIs:** React (Vite) PyQt6
+- **Web & Desktop GUIs:** React (Vite), PyQt6
 - **Backend & APIs:** FastAPI, Flask (async focus)
 - **Bots & Automation:** Discord bots, scraping, background jobs
 - **Databases:** PostgreSQL, SQLite
