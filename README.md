@@ -1,37 +1,27 @@
-# 👋 Hi, I'm Lev
+# Hi, I'm Lev
 
-## 🌌 About Me
+## About Me
 
-I'm a physicist with a passion for **Python**, clean backend architecture, and interactive frontends.  
-I transition analytical thinking into structured code, specializing in building utility-focused applications, Discord integrations, and full-stack management tools.
+I'm a physicist who writes code, focusing on Python development, backend services, and clean frontends. I enjoy building automation tools, Discord bots, and full-stack applications.
 
-My primary focus areas:
+What I work with:
 
-- 🐍 **Full-Stack Development:** Connecting modern web frontends (React + Vite) with robust Python backends.
-- 🤖 **Bots & Automation:** Developing feature-rich Discord integrations, custom scrapers, and background automation.
-- 🖥️ **Desktop GUIs:** Designing standalone desktop applications using PyQt.
-- 💾 **Database Modeling:** Designing efficient database schemas using SQL.
-- 🧮 **Data & Physics:** Scientific computing, data analysis, and a bit of C programming on the side.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-- **Languages:** Python, SQL, JavaScript/HTML/CSS, C
-- **Frontend & Desktop:** React, Vite, PyQt (Qt6)
-- **Backend:** FastAPI, Flask
-- **Databases:** PostgreSQL / SQLite
-- **Concepts:** Async programming, REST APIs, UI/UX design, Batch processing
+- **Languages:** Python, JavaScript, C
+- **Web & Desktop GUIs:** React (Vite) PyQt6
+- **Backend & APIs:** FastAPI, Flask (async focus)
+- **Bots & Automation:** Discord bots, scraping, background jobs
+- **Databases:** PostgreSQL, SQLite
+- **Other:** Physics-related computing, data handling, and writing C code when needed.
 
 ---
 
-## 📫 How to Reach Me
+## Contact
 
-- ✉️ Email: [leventegall@proton.me](mailto:leventegall@proton.me)
+- Email: leventegall@proton.me
 
 ---
 
-## 🎉 Fun Facts
+## Fun Facts
 
-- Astrophysicist by training. Pythonista by passion.
-- I love Drum and Bass music 🎧, dark matter 🌌, and the Stargate franchise 🛸.
+- Astrophysicist by training.
+- I listen to Drum and Bass, and I am interested in dark matter and absolutely love the Stargate franchise! :)
