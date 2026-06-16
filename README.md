@@ -24,4 +24,4 @@ What I work with:
 ## Fun Facts
 
 - Astrophysicist by training.
-- I listen to Drum and Bass, and I am interested in dark matter and absolutely love the Stargate franchise! :)
+- I listen to Drum and Bass, and I'm interested in dark matter and absolutely love the Stargate franchise! :)
